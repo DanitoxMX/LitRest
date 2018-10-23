@@ -15,6 +15,12 @@ namespace litRest
         public Form1()
         {
             InitializeComponent();
+            
+        }
+
+        private void conexionSQL()
+        {
+
         }
     }
 }
